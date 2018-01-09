@@ -18,6 +18,4 @@ Depends: R (>= 3.3.3)
 Imports: ncdf4, zoo, stringr, EcoHydRology, dplyr, gsubfn, yaml, mise, reshape2, qmap, ggplot2
 Suggests: knitr, rmarkdown, testthat
 NeedsCompilation: no
-Packaged: 2017-12-29 04:46:39 UTC; APCC-26
 VignetteBuilder: knitr
-Repository: CRAN
