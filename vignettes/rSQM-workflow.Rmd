@@ -619,5 +619,5 @@ ID108_SQM_CanESM2_rcp45_original.csv
 
 Hope this package would be useful. :)
 
-![](D:/APCC1.jpg){width=50%}
+![](./img/APCC1.jpg){width=50%}
 
